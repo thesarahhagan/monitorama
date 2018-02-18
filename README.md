@@ -1,5 +1,5 @@
 # Going for Brokerage: <br>People Analytics (ahem, Monitoring) at Redfin
-Accompanying repository for the [Monitorama](http://monitorama.com/) 2016 Portland talk [[slides found here](http://www.slideshare.net/SarahLakeHagan/monitorama-2016)]
+Accompanying repository for the [Monitorama](http://monitorama.com/) 2016 Portland talk [[slides found here](http://www.slideshare.net/SarahLakeHagan/monitorama-2016)]; [[talk found here](https://vimeo.com/173610283)]
 
 # Abstract
 How do you scale a start-up and redefine an industry at the same time? Through making bets on our employees and measuring our people decisions, we’ve been able to grow while simultaneously serving our customers, making our people happy, and staying connected to our culture. This talk will explain how we’ve done this: by using people data! During the talk, we'll also emphasize how you can start taking steps to monitor your people practices.
