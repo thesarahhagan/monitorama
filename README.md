@@ -9,7 +9,7 @@ How do you scale a start-up and redefine an industry at the same time? Through m
 * Nicole Forsgren's talk on how [Metrics Shape Your Culture](http://www.slideshare.net/nicolefv/2016-metricsasculture) (I referenced her a bunch!)
 
 # Bio
-Sarah Hagan is a Sr. Data Scientist at Redfin using analytics and behavioral psychology to hire the best real estate agents and foster Redfin’s amazing culture. Before that, she worked in a small group within Nordstrom’s Technology division called the People Lab to bring science to people practices. Sarah spent a decade in academia researching human behavior and personality, and has a bunch of publications that she’s pretty sure have only been read by her mom.
+Sarah Hagan is a Sr. Data Scientist at Redfin using analytics and behavioral psychology to hire the best real estate agents and foster Redfin’s amazing culture. Before that, she worked in a small group within Nordstrom’s Technology division called the People Lab to bring science to people practices. Sarah spent a decade in academia researching human behavior and personality, specifically around emotional processing and substance use.
 
 
 
